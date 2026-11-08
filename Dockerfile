@@ -11,3 +11,4 @@ EXPOSE 8080
 USER nobody
 
 CMD ["python", "app.py"]
+LABEL org.opencontainers.image.source=https://github.com/edouble01/shipit-appLABEL org.opencontainers.image.source=https://github.com/edouble01/shipit-app
