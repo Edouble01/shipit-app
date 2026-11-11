@@ -1,1 +1,1 @@
-Follow me when you can at username GitHub edouble01, my full name is "Emmanuel Khalifa" We keep learning!
+ GitHub edouble01, Emmanuel, and Emmanuel Khalifa" with the name you used in pipeline.yml
